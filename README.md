@@ -35,6 +35,19 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<div align="center">
+  <h1>☁️ DATA SCIENCE ☁️</h1>
+  <h3>Artificial Intelligence &nbsp; • &nbsp; Web Development &nbsp; • &nbsp; Cybersecurity</h3>
+  <h4>Python &nbsp; • &nbsp; React &nbsp; • &nbsp; Deep Learning &nbsp; • &nbsp; NLP</h4>
+  <h5>TensorFlow &nbsp; • &nbsp; SQL &nbsp; • &nbsp; SIEM &nbsp; • &nbsp; Wazuh &nbsp; • &nbsp; Pandas</h5>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ### 🛠️ The Arsenal
 
 <div align="center">
