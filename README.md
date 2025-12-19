@@ -36,7 +36,6 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 </div>
 
 ### 🛠️ The Arsenal
-*My modern tech stack, visualized.*
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -80,13 +79,6 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
   <h3>⚡ Programmer's Humor</h3>
   <i>Just a random joke to brighten your day! (Refreshes on every visit)</i><br><br>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>⏱️ Productive Time</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammedmoota&theme=tokyonight&utcOffset=8" alt="Productive Time Graph" />
 </div>
 
 <br>
