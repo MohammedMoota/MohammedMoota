@@ -55,5 +55,5 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohammedmoota&bg_color=0d1117&color=2094F3&line=2094F3&point=FFFFFF&hide_border=true" width="100%" alt="3D City Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoota&bg_color=0d1117&color=2094F3&line=2094F3&point=FFFFFF&hide_border=true" width="100%" alt="3D City Graph" />
 </div>
