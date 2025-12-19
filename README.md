@@ -85,8 +85,8 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 <br>
 
 <div align="center">
-  <h3>🌍 Global Connection</h3>
-  <img src="https://github-profile-globe.vercel.app/api?username=mohammedmoota&bg_color=0d1117&color=2094F3" alt="Visitor Globe" />
+  <h3>⏱️ Productive Time</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammedmoota&theme=tokyonight&utcOffset=8" alt="Productive Time Graph" />
 </div>
 
 <br>
