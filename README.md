@@ -1,16 +1,16 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=Mohammed%20Moota&fontSize=80&fontColor=4361EE&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Web%20Dev&descSize=20&descAlignY=55&descAlign=50)
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4361EE&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Mohammed;Data+Science+Student;Full+Stack+Developer;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4361EE&center=true&vCenter=true&width=500&lines=Building+Smart+Web+Apps;Training+Deep+Learning+Models;Automating+Data+Workflows;Turning+Data+Into+Insights" alt="Typing SVG" />
 </a>
 
-### 🌐 Building Smart Web Apps & Intelligent Data Systems
-
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mohammedmoota123@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/mohammed-moota-631326355">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -38,7 +38,7 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 | 🌐 **Web Development** | ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |
 | 🗄️ **Databases & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white) |
 | ⚙️ **Tools & Remote** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF3526?style=flat&logo=anydesk&logoColor=white) ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E4482?style=flat&logo=teamviewer&logoColor=white) |
-| 📂 **Office & productivity** | ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) |
+| 📂 **Office & Productivity** | ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) |
 
 ---
 
