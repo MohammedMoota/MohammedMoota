@@ -32,6 +32,10 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 * 🛠️ **My Goal:** To combine the power of AI with modern Web Development to create smart, automated systems that solve real-world problems.
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/13165276/114949187-251f4900-9e69-11eb-9407-13357597b6d1.gif" width="60" alt="Pixel Cat Walking">
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -82,5 +86,10 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/platane/master/images/matrix-rain.gif" width="100%" height="150" alt="Matrix Rain">
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" alt="Footer" />
