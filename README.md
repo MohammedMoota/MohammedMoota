@@ -40,34 +40,4 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 | :--- | :--- |
 | 🧠 **AI & Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) |
 | 🌐 **Web Development** | ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |
-| 🗄️ **Databases & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white) |
-| ⚙️ **Tools & Remote** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF3526?style=flat&logo=anydesk&logoColor=white) ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E4482?style=flat&logo=teamviewer&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) |
-| 📂 **Office & Productivity** | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white) |
-
----
-
-### 📊 Coding Stats & Habits
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>My GitHub Stats</b><br><i>Commits, PRs, and Issues</i></td>
-    <td align="center"><b>Top Languages</b><br><i>What I code in most</i></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mohammedmoota&show_icons=true&theme=transparent&hide_border=true&title_color=2094F3&text_color=ffffff&icon_color=2094F3&hide_title=true" height="150" alt="stats graph" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoota&layout=compact&theme=transparent&hide_border=true&title_color=2094F3&text_color=ffffff&icon_color=2094F3&hide_title=true" height="150" alt="languages graph" /></td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-### 🏙️ Contribution History
-*This graph visualizes my coding contributions over time as a 3D city. The taller the building, the more work I did that day.*
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoota&bg_color=0d1117&color=2094F3&line=2094F3&point=FFFFFF&hide_border=true" width="100%" alt="3D City Graph" />
-</div>
+| 🗄️ **Databases & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Jupyter](
