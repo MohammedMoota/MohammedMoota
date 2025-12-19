@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Mohammed%20Moota&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Web%20Dev&descSize=20&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+<img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526eeea8069e25d03a.gif" width="100%" alt="Isometric City Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Building+Smart+Web+Apps;Training+Deep+Learning+Models;Automating+Data+Workflows;Turning+Data+Into+Insights" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://media.giphy.com/media/u011M4J1z5WTu/giphy.gif" width="100%" height="40" alt="Matrix Rain">
 </div>
 
 ### 👨‍💻 About Me
@@ -32,10 +32,14 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 * 🛠️ **My Goal:** To combine the power of AI with modern Web Development to create smart, automated systems that solve real-world problems.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://media.giphy.com/media/Qv5TjYtNItp5F04tI2/giphy.gif" width="50" alt="Pixel Cat Walking">
 </div>
 
-### 🛠️ The Arsenal
+<div align="center">
+  <img src="https://media.giphy.com/media/u011M4J1z5WTu/giphy.gif" width="100%" height="40" alt="Matrix Rain">
+</div>
+
+### ⚛️ The Arsenal (Orbit)
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +50,7 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://media.giphy.com/media/u011M4J1z5WTu/giphy.gif" width="100%" height="40" alt="Matrix Rain">
 </div>
 
 ### 📊 Coding Stats & Habits
