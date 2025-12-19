@@ -2,10 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Mohammed%20Moota&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Web%20Dev&descSize=20&descAlignY=55&descAlign=50)
 
-<a href="https://github.com/mohammedmoota">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmoota&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Building+Smart+Web+Apps;Training+Deep+Learning+Models;Automating+Data+Workflows;Turning+Data+Into+Insights" alt="Typing SVG" />
 </a>
