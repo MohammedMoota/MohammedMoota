@@ -13,6 +13,8 @@
   <a href="https://www.linkedin.com/in/mohammed-moota-631326355">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=mohammedmoota&label=Profile%20Views&color=2094F3&style=flat" alt="Profile Views" />
 </p>
 
 </div>
@@ -60,10 +62,18 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 
 <br>
 
-### 📈 Contribution Timeline
+<div align="center">
+  <b>⚡ Programmer's Corner</b><br>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
 
+<br>
+
+### 📈 Contribution Timeline
 > This chart tracks my daily coding activity over the past 30 days. Peaks in the line indicate days with high contribution volume.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoota&bg_color=0d1117&color=2094F3&line=2094F3&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Line Graph" />
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90)
