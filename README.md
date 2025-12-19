@@ -7,13 +7,13 @@
 </a>
 
 <p align="center">
-  <a href="mailto:mohammedmoota123@gmail.com">
-    <img src="https://img.shields.io/badge/mohammedmoota123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohammedmoota123@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br>
-  <a href="https://www.linkedin.com/in/mohammed-moota-631326355">
+  &nbsp; <a href="https://www.linkedin.com/in/mohammed-moota-631326355">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=mohammedmoota&label=Profile%20Views&color=2094F3&style=flat" alt="Profile Views" />
 </p>
