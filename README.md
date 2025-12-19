@@ -68,7 +68,7 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 </div>
 
 ### 📈 Contribution Timeline
-> This chart tracks my daily coding activity over the past 30 days. Peaks in the line indicate days with high contribution volume.
+> This chart tracks my daily coding activity over the past 30 days.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoota&bg_color=0d1117&color=2094F3&line=2094F3&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Line Graph" />
@@ -86,7 +86,7 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 
 <div align="center">
   <h3>🌍 Global Connection</h3>
-  <img src="https://github-profile-globe.vercel.app/api?username=mohammedmoota&bg_color=00000000&color=2094F3" alt="Visitor Globe" />
+  <img src="https://github-profile-globe.vercel.app/api?username=mohammedmoota&bg_color=0d1117&color=2094F3" alt="Visitor Globe" />
 </div>
 
 <br>
