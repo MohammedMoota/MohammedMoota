@@ -15,7 +15,7 @@
   </a>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=mohammedmoota&label=Profile%20Views&color=2094F3&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MohammedMoota&label=Profile%20Views&color=2094F3&style=flat" alt="Profile Views" />
 </p>
 
 </div>
@@ -60,8 +60,8 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
     <td align="center"><b>Top Languages</b><br><i>Sorted by Usage</i></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mohammedmoota&show_icons=true&theme=transparent&hide_border=true&title_color=2094F3&text_color=2094F3&icon_color=2094F3&hide_title=true" height="150" alt="stats graph" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoota&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=2094F3&text_color=2094F3&icon_color=2094F3&hide_title=true" height="150" alt="languages graph" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=MohammedMoota&show_icons=true&theme=transparent&hide_border=true&title_color=2094F3&text_color=2094F3&icon_color=2094F3" height="160" alt="stats graph" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMoota&langs_count=10&theme=transparent&hide_border=true&title_color=2094F3&text_color=2094F3&icon_color=2094F3" height="" alt="languages graph" /></td>
   </tr>
 </table>
 
@@ -71,7 +71,7 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 > This chart tracks my daily coding activity over the past 30 days.
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoota&bg_color=0d1117&color=2094F3&line=2094F3&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Line Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedMoota&bg_color=0d1117&color=2094F3&line=2094F3&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Line Graph" />
 </div>
 
 <br>
