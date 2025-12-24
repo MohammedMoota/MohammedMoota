@@ -60,8 +60,8 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
     <td align="center"><b>Top Languages</b><br><i>Sorted by Usage</i></td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=MohammedMoota&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats graph" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMoota&langs_count=10&theme=tokyonight" height="" alt="languages graph" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=mohammedmoota&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats graph" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoota&langs_count=10&theme=tokyonight" height="" alt="languages graph" /></td>
   </tr>
 </table>
 
