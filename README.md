@@ -57,7 +57,7 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
     <td align="center"><b>Top Languages</b><br><i>Sorted by Usage</i></td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMoota&theme=radical&hide_border=true" height="170" alt="streak stats" /></td>
+    <td valign="top"><img src="https://streak-stats.demolab.com?user=MohammedMoota&theme=radical&hide_border=true" height="170" alt="streak stats" /></td>
     <td valign="top"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedMoota&theme=radical" height="170" alt="languages graph" /></td>
   </tr>
 </table>
