@@ -21,13 +21,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 👨‍💻 About Me
+###  About Me
 I am a final-year **Data Science Student** with a passion for building things that work. I don't just analyze data; I build the websites and systems to display it.
 
 I specialize in **Web Development** (Frontend & Backend) and **Artificial Intelligence**. Whether I am training complex Deep Learning models or designing a responsive user interface in **React**, I love the process of creating functional, smart software.
 
-* 🧠 **I love:** Training models, automating workflows, and turning raw data into meaningful insights.
-* 🛠️ **My Goal:** To combine the power of AI with modern Web Development to create smart, automated systems that solve real-world problems.
+*  **I love:** Training models, automating workflows, and turning raw data into meaningful insights.
+*  **My Goal:** To combine the power of AI with modern Web Development to create smart, automated systems that solve real-world problems.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -47,7 +47,7 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 📊 Coding Stats & Habits
+###  Coding Stats & Habits
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 
 </div>
 
-### 📈 Contribution Timeline
+###  Contribution Timeline
 > This chart tracks my daily coding activity over the past 30 days.
 
 <div align="center">
@@ -74,7 +74,7 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 <br>
 
 <div align="center">
-  <h3>⚡ Programmer's Humor</h3>
+  <h3> Programmer's Humor</h3>
   <i>Just a random joke to brighten your day! (Refreshes on every visit)</i><br><br>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
