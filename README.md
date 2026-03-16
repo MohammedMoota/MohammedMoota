@@ -22,12 +22,13 @@
 </div>
 
 ###  About Me
-I am a final-year **Data Science Student** with a passion for building things that work. I don't just analyze data; I build the websites and systems to display it.
+**Software Engineer | AI**
 
-I specialize in **Web Development** (Frontend & Backend) and **Artificial Intelligence**. Whether I am training complex Deep Learning models or designing a responsive user interface in **React**, I love the process of creating functional, smart software.
+Code should fit flawlessly. I approach software engineering the way a master tailor approaches a bespoke suit: with an absolute obsession for structure, precision, and the final aesthetic.
 
-*  **I love:** Training models, automating workflows, and turning raw data into meaningful insights.
-*  **My Goal:** To combine the power of AI with modern Web Development to create smart, automated systems that solve real-world problems.
+Operating at the exact intersection of artificial intelligence and modern web development, I build digital experiences that refuse to compromise. From training heavy-duty deep learning models to crafting sleek, pixel-perfect interfaces in Vue, my mandate is simple.
+
+I engineer intelligent, complex data into refined, high-impact software.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
